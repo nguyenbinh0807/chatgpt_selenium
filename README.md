@@ -24,7 +24,9 @@
 
 # Lợi ích
 
-- Thay vì mình phải nạp mua để có một tài khoản api, để sử dụng mô hình của openai. thì mọi người hãy sử dụng code này để lấy câu hỏi của chatgpt để áp dụng cho những ứng dụng của bạn khỏi phải tốn thêm phí.
+- Thay vì mình phải nạp mua để có một tài khoản api, sử dụng mô hình của openai phát triển nghiên cứu project. Thì code này sẽ tự động hóa trên trang web chat mọi người không cần phải bỏ chi phí trong quá trình nghiên cứu.
+
+- Mình không ủng hộ mọi người lấy code này để build sản phẩm lên cộng động vì nó vi phạm vào Openai
 
 # Lưu ý
 
